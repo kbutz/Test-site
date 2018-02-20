@@ -1,2 +1,2 @@
-Test-site
+Hazel & Kyle's Wedding Site
 =========
